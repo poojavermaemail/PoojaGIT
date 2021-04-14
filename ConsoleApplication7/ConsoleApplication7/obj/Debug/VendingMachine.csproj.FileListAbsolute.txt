@@ -1,0 +1,6 @@
+\\userprofiles01\xddata07\pv067094\my documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+\\userprofiles01\xddata07\pv067094\my documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+\\userprofiles01\xddata07\pv067094\my documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+\\userprofiles01\xddata07\pv067094\my documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\VendingMachine.csprojResolveAssemblyReference.cache
+\\userprofiles01\xddata07\pv067094\my documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+\\userprofiles01\xddata07\pv067094\my documents\visual studio 2015\Projects\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
